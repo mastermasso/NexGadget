@@ -1,0 +1,20 @@
+{
+  "name": "nexgadget",
+  "version": "1.0.0",
+  "description": "Nexgadget is a modern e-commerce web application engineered to deliver seamless online shopping experiences for consumer electronics and tech accessories",
+  "homepage": "https://github.com/mastermasso/NexGadget#readme",
+  "bugs": {
+    "url": "https://github.com/mastermasso/NexGadget/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mastermasso/NexGadget.git"
+  },
+  "license": "ISC",
+  "author": "Techmeister/Master Masso",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
