@@ -17,4 +17,5 @@ const Startserver = async () => {
     } catch (error) {
         console.error('Error occurred while starting the server:', error);
     }
+}
     startserver();
